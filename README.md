@@ -39,7 +39,7 @@ python main.py
 
 # Author
 
-[twitter](https://x.com/pikarihikari78)
+[twitter](https://x.com/YmXf6mHOS465879)
 
 # License
 
